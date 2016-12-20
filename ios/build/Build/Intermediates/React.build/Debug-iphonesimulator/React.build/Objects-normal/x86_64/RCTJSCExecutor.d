@@ -1,0 +1,24 @@
+dependencies: \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Executors/RCTJSCExecutor.mm \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Profiler/RCTJSCProfiler.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Base/RCTErrorCustomizer.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Executors/RCTJSCWrapper.h \
+  /Users/wangrongchao/Desktop/RN/MeiTuanDemo/node_modules/react-native/React/Executors/RCTJSCErrorHandling.h
