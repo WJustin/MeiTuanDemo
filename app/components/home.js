@@ -38,7 +38,7 @@ export default class Home extends Component {
     return(
       <View style={styles.navigationBar}>
         <Text>
-           广州
+           上海
         </Text>
         <TextInput placeholder='  请输入商家' style={styles.navigationBarTextInput}/>
         <View style={styles.navigationBarRight}>
