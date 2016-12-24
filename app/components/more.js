@@ -23,7 +23,7 @@ export default class Home extends Component {
     return (
       <View style={styles.container}>
         {this._renderNavigationBar()}
-        <ScrollView>
+        <ScrollView >
           <View style={{marginTop:10}}>
             <MoreCell title='扫一扫'/>
           </View>
