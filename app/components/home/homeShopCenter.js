@@ -13,7 +13,7 @@ import {
     ScrollView,
 } from 'react-native';
 import HomeSectionHeaderView from './homeSectionHeaderView';
-import HomeShopCenterData from '../../data/HomeShopCenterData.json';
+import HomeShopCenterData from '../../data/homeShopCenterData.json';
 
 class ShopItem extends React.Component {
     render() {

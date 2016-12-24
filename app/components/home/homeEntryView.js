@@ -13,7 +13,7 @@ import {
 } from 'react-native';
 
 import Dimensions from 'Dimensions';
-import TopMenu from '../../data/HomeEntryItemsData.json';
+import TopMenu from '../../data/homeEntryItemsData.json';
 import HomeEntryItemsView from './homeEntryItemsView';
 const screenWidth =  Dimensions.get('window').width;
 
