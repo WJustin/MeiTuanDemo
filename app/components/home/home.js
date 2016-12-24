@@ -18,7 +18,7 @@ import HomeDetail from './homeDetail';
 import HomeEntryView from './homeEntryView';
 import HomeShopCenter from './homeShopCenter'
 import HomeGuessYouLikeView from './homeGuessYouLikeView'
-import * as ServerApi from '../constants/serverApi'
+import * as ServerApi from '../../constants/serverApi'
 import Dimension from 'Dimensions';
 const {width,height} = Dimension.get('window');
 

@@ -15,7 +15,7 @@ import {
     RefreshControl,
     ScrollView,
 } from 'react-native';
-import * as ServerApi from '../constants/serverApi'
+import * as ServerApi from '../../constants/serverApi'
 import Dimensions from 'Dimensions'
 const {width, height} = Dimensions.get('window')
 

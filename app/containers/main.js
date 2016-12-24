@@ -9,10 +9,10 @@ import {
 } from 'react-native';
 import {connect} from 'react-redux'
 import {bindActionCreators} from 'redux'
-import Home from '../components/home'
-import Shop from '../components/shop'
-import More from '../components/more'
-import My from '../components/my'
+import Home from '../components/home/home'
+import Shop from '../components/shop/shop'
+import More from '../components/more/more'
+import My from '../components/my/my'
 import homeReducer from '../reducers/homeReducer'
 import TabNavigator from 'react-native-tab-navigator'
 
