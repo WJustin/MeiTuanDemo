@@ -6,12 +6,10 @@
 
 import React, { Component } from 'react';
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View,
   ScrollView,
-  TouchableOpacity,
   Image,
 } from 'react-native';
 import MoreCell from './moreCell';
@@ -80,10 +78,5 @@ const styles = StyleSheet.create({
     right:15,
     width:30,
     height:30,
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
   },
 });

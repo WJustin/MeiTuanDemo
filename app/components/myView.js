@@ -6,14 +6,10 @@
 
 import React, { Component } from 'react';
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View,
   Image,
-  Switch,
-  TouchableOpacity,
-  Alert,
 } from 'react-native';
 
 export default class MyView extends Component {
@@ -37,7 +33,7 @@ MyView.propTypes = {
 MyView.defaultProps = {
   title : '钱包',
   uri: '',
-};
+};;
 
 const styles = StyleSheet.create({
   container: {
@@ -47,10 +43,11 @@ const styles = StyleSheet.create({
     paddingVertical:10,
   },
   image:{
-    width:30,
-    height:30,
+    width:25,
+    height:25,
   },
   welcome: {
-    fontSize: 16,
+    fontSize: 14,
+    marginTop:5,
   },
 });

@@ -6,13 +6,11 @@
 
 import React, { Component } from 'react';
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View,
   Image,
   Switch,
-  TouchableOpacity,
 } from 'react-native';
 
 export default class MoreCell extends Component {

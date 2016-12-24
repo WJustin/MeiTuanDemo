@@ -6,14 +6,8 @@
 
 import React, { Component } from 'react';
 import {
-  AppRegistry,
   StyleSheet,
-  Text,
   View,
-  Image,
-  Switch,
-  TouchableOpacity,
-  Alert,
 } from 'react-native';
 import MyView from './myView'
 
@@ -36,13 +30,5 @@ const styles = StyleSheet.create({
     height:64,
     backgroundColor:'white',
     flexDirection:'row',
-  },
-  image:{
-    paddingVertical:15,
-    width:30,
-    height:30,
-  },
-  welcome: {
-    fontSize: 16,
   },
 });

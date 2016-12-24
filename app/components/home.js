@@ -6,16 +6,13 @@
 
 import React, { Component } from 'react';
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View,
-  TouchableOpacity,
   Image,
   TextInput,
   ScrollView,
   RefreshControl,
-  Alert,
 } from 'react-native';
 import HomeDetail from './homeDetail';
 import HomeEntryView from './homeEntryView';

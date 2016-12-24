@@ -4,15 +4,11 @@
 
 import React, { Component } from 'react';
 import {
-    AppRegistry,
     StyleSheet,
     Text,
     View,
-    TouchableOpacity,
-    ScrollView,
     ListView,
     Image,
-    Alert,
 } from 'react-native';
 import HomeSectionHeaderView from './homeSectionHeaderView'
 import Dimensions from 'Dimensions';

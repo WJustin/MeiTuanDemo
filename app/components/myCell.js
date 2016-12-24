@@ -6,14 +6,10 @@
 
 import React, { Component } from 'react';
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View,
   Image,
-  Switch,
-  TouchableOpacity,
-  Alert,
 } from 'react-native';
 
 export default class MyCell extends Component {

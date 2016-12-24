@@ -6,18 +6,16 @@
 
 import React, { Component } from 'react';
 import {
-    AppRegistry,
     StyleSheet,
     Text,
     View,
-    TouchableOpacity,
     ScrollView,
 } from 'react-native';
 
 import Dimensions from 'Dimensions';
-const screenWidth =  Dimensions.get('window').width;
 import TopMenu from '../LocalData/TopMenu.json';
 import HomeEntryItemsView from './homeEntryItemsView';
+const screenWidth =  Dimensions.get('window').width;
 
 export default class HomeEntryView extends Component {
   constructor(props){
@@ -55,7 +53,7 @@ export default class HomeEntryView extends Component {
 
   _renderDots(){
     let dotsArray = [];
-    for (let i = 0; i < 2; i++) {
+    for (let i = 0; i < TopMenu.data.length; i++) {
       dotsArray.push(
           <Text key={i} style={{color:this.state.currentPage == i ? 'red':'gray', fontSize:20}}>&bull;</Text>
       )

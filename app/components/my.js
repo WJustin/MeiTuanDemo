@@ -6,14 +6,11 @@
 
 import React, { Component } from 'react';
 import {
-  AppRegistry,
   StyleSheet,
   Text,
   View,
   ScrollView,
-  TouchableOpacity,
   Image,
-
 } from 'react-native';
 import MyCell from './myCell';
 import MyOrderCell from './myOrderCell';
@@ -76,22 +73,5 @@ const styles = StyleSheet.create({
     height:50,
     backgroundColor:'red',
     borderRadius:25,
-  },
-  navigationBarTitle:{
-    color:'white',
-    fontSize:18,
-    marginTop:10,
-  },
-  navigationBarRightImage:{
-    position:'absolute',
-    top: 20,
-    right:15,
-    width:30,
-    height:30,
-  },
-  welcome: {
-    fontSize: 20,
-    textAlign: 'center',
-    margin: 10,
   },
 });
